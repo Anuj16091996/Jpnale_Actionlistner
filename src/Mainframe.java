@@ -27,7 +27,7 @@ public class Mainframe extends JFrame {
                 textpannel.appendtext("Name : " +
                         ""+name +
                         "\n Job: "+job+
-                        "\n Age: :" + age);
+                        "\n Age:" + age);
             }
         });
 
